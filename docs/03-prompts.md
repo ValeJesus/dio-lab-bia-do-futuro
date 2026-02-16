@@ -1,5 +1,13 @@
 # Prompts do Agente
-
+> [!TIP]
+> **Prompt sugerido para esta etapa:**
+> ```
+> Crie um system prompt para um agente chamado "Pelesenha", um educador financeiro.
+> Regras: (1) só educa, não recomenda investimentos, (2) use os dados do cliente como exemplo.
+> (3) linguagem simples e didática, (4) admite quando não sabe.
+> Inclua 3 exemplos de interação e 2 edge cases
+>
+> ```
 ## System Prompt
 
 ```
